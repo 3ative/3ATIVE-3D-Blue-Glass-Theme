@@ -32,6 +32,7 @@ The lastest version on my 3ATIVE (_semi-transparent_) theme, with 3D Highlights 
 ## Developer Tools Panel
 ![06](https://user-images.githubusercontent.com/51385971/142559971-9563b819-3b89-4122-bc36-34a9a8762b9c.JPG)
 
+___
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
